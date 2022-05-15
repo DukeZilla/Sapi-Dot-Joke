@@ -1,0 +1,34 @@
+						================
+						SETTINGS DETAILS
+						================
+
+
+
+# Check: - Checks whether settings are enabled or disabled.
+
+
+# DeactivateNuke: - Disables the script that deletes the FakeVirus folder after finish.
+		      
+		  - Disable the FakeVirus folder from hiding from desktop.
+	
+	       	  - Prevents the unchecking of "show hidden files" option on its own.
+
+
+# DisableChangeWallpaper: - Disables the scripts that changes the wallpaper. 
+
+
+# DisableDiskTrayLoop: - Disables the script that repeatedly opens and closes the computer disk tray.
+
+
+# DisableShutdown: - Simply deactivates the script that triggers the Windows shutdown program.
+
+
+# DisableStartupScript: - Disables the startup script, or the script that triggers when the user logs back in.
+
+
+# NoLoudNoises: - Quieter experience, switches "dellbeepspam.mp3" to the quiet version. 
+		
+		- Disables force volume inceasers.
+
+
+# RestoreDefaults: - Resets all settings to defaults.

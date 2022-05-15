@@ -1,0 +1,73 @@
+
+ 		 	 - FOLLOW THESE STEPS CAREFULLY FOR EVERYTHING TO WORK PROPERLY -
+
+			* THESE SCRIPTS WILL NOT HARM A COMPUTER IN ANY WAY SHAPE OR FORM *
+    	    	    
+		    ! FLASHING WARNING: DO NOT USE ON SOMEONE WHOM HAS PHOTOSENSITIVE EPILIPSY !
+
+O-----------------------------------------------------------------------------------------------------------------O
+
+			      	       'HOW TO OPERATE SAPI-DOT-JOKE 101'
+
+
+- 1:) 	(HOW TO START): If you're going to insert the Sapi-Dot-Joke folder via USB to another computer there are 
+=====	2 ways to set this up:
+
+	i. Using the file called 'PartyStarta.bat' (which is the recommended way...)
+	'PartyStarta.bat' is a commandline which makes it quick and easy to set everything up.
+
+	ii. Using 'ClickToGenerateShortcuts.bat' to generate shortcuts to start the fake trojan
+	This is another way to start the scripts if for some reason 'PartyStarta!.bat' does not work.
+
+	*BE ADVISED; The Sapi-Dot-Joke program selfdestructs in the end by default, in other words it deletes itself! This is called a 
+	nuke script, when activated the Sapi-Dot-Joke folder will become invisible (hiding), and will uncheck the "Show hidden files" 
+	option on it's own. Not only that, once self-deleted, it wont even show up in the recycle bin!*
+
+
+- 2:) 	(WHAT TO USE): "ADVENTURE" scripts are the initiators and have different variations... these can be found in the 
+===== 	"Scripts" section in the PartyStarta.bat console. Once it's started, a fake update notification will pop up 
+	and the following can happen:
+
+	i.   'ADVENTURE Timed.vbs' The user has the choice to delay the script's initiation under an arbitrary amount of time.
+	     The notification box will wait until the victim clicks it, once clicked, the timer starts.
+	     In other words... the fake trojan will sleep for an x amount of minutes or hours before starting.
+	     The time can be configured in 'PartyStarta.bat' or starting 'ADVENTURE Timed.vbs'
+
+	ii.  'ADVENTURE.vbs' Once started the fake trojan will begin immediately regardless if the notification
+	     is clicked or not.
+
+	iii. 'ADVENTURE (In the hall of mountain king edition).vbs' Is a special version of the fake trojan in which 
+	     it's programmed to go on beat with the classical music piece "Greig - In the hall of mountain king". 
+	     The music must start at the same time when the notification is clicked.
+     
+   	*TIP: To know when the fake trojan is starting, a calculator will open up on screen or in the taskbar ;)*
+
+
+- 3:) 	(SETTINGS): You can make changes to the Sapi-Dot-Joke scripts in the settings folder, where there are many options / scripts to
+=====	enable or disable. This can also be accessed in 'PartyStarta.bat'.
+
+	For ex: By default, the Sapi-Dot-Joke program self-deletes in the end, If you don't want the Sapi-Dot-Joke folder and contents to 
+	delete after it's finished, go to the settings folder and double-click 'DeactivateNuke.bat' to deactivate the nuke script. 
+	(When enabled & started, the script won't delete or auto hide the Sapi-Dot-Joke folder from desktop)
+
+	*More info can be found in the settings folder under 'SettingsDetails.txt'*
+
+
+ALT:) 	If the computer is preventing the Sapi-Dot-Joke folder from opening then use 'PartyStarta.bat'
+	this is a command line that will bypass that problem and will give you the option to start the 
+	scripts, tweak the settings... and it even comes with a free cmd! 
+	(Be sure that 'PartyStarta.bat' is outside of the Sapi-Dot-Joke folder, and in the same directory.)
+
+ALERT:) DO NOT Delete, Move or Rename anything, including all files, folders, even renaming the title "Sapi-Dot-Joke"
+        Doing so may cause errors and scripts will either halt, or malfunction. (This is to the people who don't
+	know what they're doing!)
+	It's also HIGHLY recommended that you right click the zip file in which you've extracted the Sapi-Dot-Joke from,
+	click properties, then click Unblock, that way all files will garauntee to function properly.
+
+	*More information can be found in the README folder, which goes more in depth of how Sapi-Dot-Joke works.*
+
+O-----------------------------------------------------------------------------------------------------------------O
+
+    	Ps: 'PANIC-BUTTON.bat' stops Sapi-Dot-Joke... in case you change your mind. 
+
+	- Enjoy :)
