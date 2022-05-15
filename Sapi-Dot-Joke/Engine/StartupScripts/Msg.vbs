@@ -1,0 +1,1 @@
+createobject("wscript.shell").popup "Yup... you just got pranked!", 5,"OOPS!",vbInformation+vbSystemModel

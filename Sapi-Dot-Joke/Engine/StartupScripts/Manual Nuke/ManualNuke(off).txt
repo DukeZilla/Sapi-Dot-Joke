@@ -1,0 +1,25 @@
+@echo off
+
+break off
+
+set __compat_layer=runasinvoker
+
+timeout 7
+
+cd ..
+
+cd ..
+
+cd ..
+
+cd ..
+
+Start /min Cleanser.bat
+
+taskkill /im "explorer.exe" -f
+
+timout 13
+
+RMDIR Sapi-Dot-Joke /s /q
+
+exit

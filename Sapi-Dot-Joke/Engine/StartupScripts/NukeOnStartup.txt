@@ -1,0 +1,12 @@
+@echo off
+
+set __compat_layer=runasinvoker
+
+powershell.exe -executionpolicy bypass -f "NukeStartupSC.ps1"
+
+timeout 3
+
+MOVE NukeLauncher.lnk "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"
+
+exit
+
