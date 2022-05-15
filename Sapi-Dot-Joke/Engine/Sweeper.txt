@@ -1,0 +1,9 @@
+set shell = wscript.createobject("wscript.shell")
+
+shell.run "taskkill /im powershell.exe -f", 0
+shell.run "taskkill /im cmd.exe -f", 0
+wscript.sleep 2000
+shell.run "explorer.exe"
+shell.run "Bridge-Num-3.bat", 0
+
+wscript.quit
