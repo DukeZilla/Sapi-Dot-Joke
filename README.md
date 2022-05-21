@@ -20,9 +20,7 @@ This project works best with Windows 10 x64 with internet.
 
 Languages include VBS, Batch, and Powershell.
 
-Depending on the malware detector, some scripts may be quarantined.
-
-If downloaded you may need to lower UAC sensitivity, or run Verify.bat to quickly get all the scripts UAC approved. 
+Depending on the malware detector, some scripts may be quarantined. 
 
 Important to read "QUICK INSTRUCTIONS.txt" before use.
 
