@@ -1,6 +1,6 @@
 # Sapi-Dot-Joke Project
 
-Epic fake trojan...
+Silly fake trojan I made a while ago...
 
 This is a completely harmless joke program you can use to prank your friends and family.
 
